@@ -2,8 +2,7 @@
 
 
 # Políticas de Firewall #
-Políticas de Firewall são conjuntos de regras usadas para controlar qual tráfego de rede é aceito pelo FortiGate e, se for aceito, como o FortiGate processa o tráfego.
-
+Políticas de Firewall são conjuntos de regras usadas para controlar qual tráfego de rede é aceito e, se for aceito, como será processado.
 
 ### Correspondendo Tráfego de Rede em Políticas de Firewall ###
 O tráfego de rede pode corresponder a critérios, que podemos definir:
