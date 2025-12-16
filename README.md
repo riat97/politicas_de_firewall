@@ -1,3 +1,5 @@
+Documentação de estudo de Políticas de Firewall no FortiGate, parte do curso NSE 3.
+
 # Políticas de Firewall #
 Políticas de Firewall são conjuntos de regras usadas para controlar qual tráfego de rede é aceito pelo FortiGate e, se for aceito, como o FortiGate processa o tráfego.
 
