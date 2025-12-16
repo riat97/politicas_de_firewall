@@ -1,4 +1,4 @@
-* Anotações de estudo de Políticas de Firewall no FortiGate, parte do curso NSE 3.
+* Anotações de estudo sobre Políticas de Firewall no FortiGate, parte do curso NSE 3.
 
 
 # Políticas de Firewall #
